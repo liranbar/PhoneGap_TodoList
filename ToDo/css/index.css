@@ -1,0 +1,16 @@
+#taskValue, #dateValue,#timeValue{
+	margin-bottom: 24px;
+	width: 88%;
+	max-width: 88%;
+}
+#taskValue{
+	text-overflow: ellipsis;
+}
+#task{
+	height: 70px;
+    max-height: 70px;
+    /*overflow-y: scroll;*/  
+}
+#submit{
+	position: fixed;
+}
